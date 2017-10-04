@@ -1,2 +1,2 @@
-# moses.github.io
-moses.github.io
+# moshkim.github.io/moses
+My new homepage urls: moshkim.github.io/moses
