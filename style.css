@@ -2,10 +2,11 @@ header {
 
 	font-family: 'Lato', sans-serif;
 	text-align: center;
+	font-weight: bold;
 	/*font-family: 'Roboto', sans-serif;*/
-	font-size: 100;
+	font-size: 60px;
 	margin: 0 auto;
 	background-color: gray;
 	color: white;
-	padding: 50 auto;
+	padding: 50px 0;
 }
