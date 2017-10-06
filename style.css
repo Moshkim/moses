@@ -10,3 +10,33 @@ header {
 	color: white;
 	padding: 50px 0;
 }
+
+.center {
+
+	text-align: center;
+}
+
+
+section {
+	margin: 0 auto;
+	
+}
+
+div {
+	
+}
+
+a:hover {
+	
+}
+
+#sizeofNav {
+
+
+}
+
+img {
+	display: block;
+	margin:auto;
+
+}
